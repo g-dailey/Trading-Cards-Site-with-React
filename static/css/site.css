@@ -19,5 +19,6 @@ body {
   font-family: 'Trebuchet MS', Helvetica, sans-serif;
 }
 img {
-  height: 7em;
+  display: block;
+  height: 10em;
 }
